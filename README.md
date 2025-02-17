@@ -5,3 +5,4 @@ Aquest canvi s'ha fet directament des de GitHub.
 
 - Canvi A
 - Canvi B
+- Canvi C
