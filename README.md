@@ -7,3 +7,4 @@ Aquest canvi s'ha fet directament des de GitHub.
 - Canvi B
 - Canvi C
 - Canvi D
+- Canvi E
