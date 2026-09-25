@@ -4,3 +4,5 @@ Repositori del __Bloc: Remots__ del curs __"Introducció a Git i GitHub Actions"
 Segon commit
 
 Commit desde casa
+
+2n commit des de casa
