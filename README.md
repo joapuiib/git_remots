@@ -8,3 +8,6 @@ Canvi des de casa.
 Més canvis des de casa.
 
 Més canvis des del centre.
+
+## Autors
+La classe de 1r de DAM del CIPFP Mislata.
