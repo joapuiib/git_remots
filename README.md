@@ -4,3 +4,5 @@ Repositori del __Bloc: Remots__ del curs __"Introducció a Git i GitHub Actions"
 Nou canvi local.
 
 Canvi des de casa.
+
+Més canvis des de casa.
